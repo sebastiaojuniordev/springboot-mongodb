@@ -1,4 +1,4 @@
-package br.com.sebastiaojunior.mongodbexamples.resouce;
+package br.com.sebastiaojunior.mongodbexamples.resource;
 
 import java.util.List;
 
